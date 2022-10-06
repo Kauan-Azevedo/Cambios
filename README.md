@@ -1,2 +1,2 @@
-# Cambios
-site que realiza cambio entre moedas
+# ✨ Sobre
+  * site simples que realiza cambio entre moedas.
